@@ -1,0 +1,5 @@
+{
+  "name": "Hourly News Summarizer",
+  "description": "An application that uses Gemini with Google Search grounding to provide summaries of the most important news stories from the last hour.",
+  "requestFramePermissions": []
+}
